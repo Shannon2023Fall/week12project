@@ -1,0 +1,75 @@
+
+[
+    {
+    "id": 202201,
+    "gender": "male",
+    "age": 25,
+    "month": "February"
+    },
+    {
+    "id": 202202,
+    "gender": "male",
+    "age": 15,
+    "month": "April"
+    },
+    {
+    "id": 202203,
+    "gender": "male",
+    "age": 32,
+    "month": "May"
+    },
+    {
+    "id": 202204,
+    "gender": "male",
+    "age": 19,
+    "month": "May"
+    }, 
+    {
+    "id": 202205,
+    "gender": "male",
+    "age": 16,
+    "month": "May"
+    },
+    {
+    "id": 202206,
+    "gender": "male",
+    "age": 18,
+    "month": "June"
+    },  
+    {
+    "id": 202207,
+    "gender": "male",
+    "age": 22,
+    "month": "July"
+    },             
+    {
+    "id": 202208,
+    "gender": "female",
+    "age": 13,
+    "month": "July"
+    },
+    {
+    "id": 202209,
+    "gender": "male",
+    "age": 35,
+    "month": "August"
+    }, 
+    {
+    "id": 202210,
+    "gender": "male",
+    "age": 59,
+    "month": "September"
+    },       
+    {
+    "id": 202211,
+    "gender": "male",
+    "age": 20,
+    "month": "December"
+    },
+    {
+    "id": 202212,
+    "gender": "male",
+    "age": 18,
+    "month": "December"
+    }
+]
